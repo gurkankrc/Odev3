@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login">Login</string>
+    <string name="google">G+</string>
+    <string name="facebook">f</string>
+    <string name="or">OR</string>
+    <string name="forgotpassword">Forgot Password ?</string>
+    <string name="btntext">Login</string>
+    <string name="notregisterad">Not registerad?</string>
+    <string name="creatAccount">Cereat Account</string>
+
+</resources>

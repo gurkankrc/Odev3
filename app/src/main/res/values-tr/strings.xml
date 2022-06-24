@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Odev3</string>
+    <string name="login">Giriş</string>
+    <string name="google">G+</string>
+    <string name="facebook">f</string>
+    <string name="or">VEYA</string>
+    <string name="forgotpassword">Parolanızı mı unuttunuz?</string>
+    <string name="btntext">Giriş</string>
+    <string name="notregisterad">Kayıtlı değilmisiniz?</string>
+    <string name="creatAccount">Hesap oluştur</string>
+
+</resources>
