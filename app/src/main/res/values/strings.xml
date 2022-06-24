@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Login</string>
     <string name="login">Login</string>
     <string name="google">G+</string>
@@ -8,6 +8,8 @@
     <string name="btntext">Login</string>
     <string name="notregisterad">Not registerad?</string>
     <string name="creatAccount">Cereat Account</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
 
 
 </resources>

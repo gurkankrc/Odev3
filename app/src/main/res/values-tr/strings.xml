@@ -8,6 +8,8 @@
     <string name="btntext">Giriş</string>
     <string name="notregisterad">Kayıtlı değilmisiniz?</string>
     <string name="creatAccount">Hesap oluştur</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Şifre</string>
 
 
 
